@@ -1,0 +1,15 @@
+*.pack.jar
+*.docx
+*.exe
+*.zip
+*.pdf
+*.docm
+SM14/
+SM57/
+P2/
+Ent*
+ENT*
+Pr*
+guiones/
+Apl*
+doc*
